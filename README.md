@@ -1,5 +1,5 @@
 # ANN_Streamflow_Prediction
-Source code for ANN streamflow prediction models used in my research
+Source code for ANN streamflow prediction models used in my Msc research
 
 
 # ANN Streamflow Prediction
